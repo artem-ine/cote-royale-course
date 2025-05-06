@@ -7,7 +7,7 @@ This is the final code for the Côte Royale website YouTube course. Check throug
 To start a new project using this website as a starter, run the following commands in your terminal:
 
 ```sh
-npx degit prismicio-community/cote-royale-course cote-royale
+npx degit artem-ine/cote-royale-course cote-royale
 cd cote-royale
 npx @slicemachine/init@latest
 ```
